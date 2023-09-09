@@ -1,0 +1,31 @@
+.div_maeA{
+    background-color: #b482ec; 
+    width: 240px; 
+    height: 500px;
+}
+
+.div_filhoB{
+    background-color: #fdd5f3; 
+    width: 120px; 
+    height: 180px;
+}
+
+.p_filhoB{
+    color: white; 
+    background-color: #f737cd; 
+    font-size: 20px; 
+    font-family: monospace; 
+    font-weight: bolder;
+}
+
+.div_maeC{
+    background-color: hsl(325, 92%, 67%); 
+    width: 82%; 
+    height: 34vh;
+}
+
+.div_filhoD{
+    background-color: #4e96f5; 
+    width: 80vw; 
+    height: 38%;
+}
